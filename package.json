@@ -1,0 +1,24 @@
+{
+  "name": "nucampprojects",
+  "version": "1.0.0",
+  "description": "This is my folder for Nucamp projects",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illfriday/nucampProjects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illfriday/nucampProjects/issues"
+  },
+  "homepage": "https://github.com/illfriday/nucampProjects#readme"
+}
